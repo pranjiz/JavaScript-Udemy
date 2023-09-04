@@ -16,4 +16,6 @@
     <li>6. Section Overview <a href="https://coggle.it/diagram/XE3ZoVj-rtA5hcxj/t/advanced-javascript">Course Map</li>
     <li>7. Javascript Engine <a href="https://en.wikipedia.org/wiki/List_of_ECMAScript_engines">ECMAScript Engines</li>
     <li>9. Inside the Engine <a href="https://astexplorer.net/">AST Explorer</li>
+    <li>15. Writing Optimized Code <a href="https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html">Hidden Classes</li>
+    <li>15. Writing Optimized Code <a href="https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments">Managing arguements</li>
 </ul>
