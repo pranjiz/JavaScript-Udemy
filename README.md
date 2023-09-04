@@ -25,4 +25,6 @@
     <li>24. Node.js <a href="https://nodejs.org/en">Node.js</li>
     <li>25. Exercise:Fix This Code <a href="https://replit.com/@aneagoie/Prevent-Stack-Overflow">Solution Code</li>
     <li>26. Section Review <a href="https://replit.com/@aneagoie/Javascript-Runtime">Async Code Playground</li>
+    <li>27. <a href="https://zerotomastery.io/blog/?tag=WDM&utm_source=udemy&utm_medium=coursecontent#monthly"> Web Developer Monthly</li>
+    <li>28. <a href="https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/?utm_source=udemy&utm_medium=coursecontent">Advanced JavaScript Cheatsheet</li>
 </ul>
