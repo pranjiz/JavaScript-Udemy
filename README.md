@@ -8,7 +8,7 @@
 <p>4. ZTM Resources </p>
 <ul>
     <li><a href="https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/">Advanced JavaScript Cheat Sheet</a></li>
-    <li><a href="https://www.youtube.com/@ZeroToMastery"></a>ZTM Youtube</li>
+    <li><a href="https://www.youtube.com/@ZeroToMastery">ZTM Youtube</a></li>
     <li><a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fgroups%2F12121940%2F&trk=login_reg_redirect">LinkedIn Group</a></li>
 </ul>
 <h3>Section 2: JavaScript Foundation</h3>
