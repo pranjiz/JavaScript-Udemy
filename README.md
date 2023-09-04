@@ -4,7 +4,7 @@
 </ul>
 <br/>
 <br/>
-<h5>Section 2: JavaScript Foundation</h5>
+<h3>Section 2: JavaScript Foundation</h3>
 <ul>
   <li>6. Section Overview <a href="https://coggle.it/diagram/XE3ZoVj-rtA5hcxj/t/advanced-javascript">Course Map</li>
 </ul>
