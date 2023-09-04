@@ -15,4 +15,5 @@
 <ul>
     <li>6. Section Overview <a href="https://coggle.it/diagram/XE3ZoVj-rtA5hcxj/t/advanced-javascript">Course Map</li>
     <li>7. Javascript Engine <a href="https://en.wikipedia.org/wiki/List_of_ECMAScript_engines">ECMAScript Engines</li>
+    <li>9. Inside the Engine <a href="https://astexplorer.net/">AST Explorer</li>
 </ul>
