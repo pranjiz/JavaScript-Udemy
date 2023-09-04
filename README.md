@@ -19,4 +19,10 @@
     <li>15. Writing Optimized Code <a href="https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html">Hidden Classes</li>
     <li>15. Writing Optimized Code <a href="https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments">Managing arguements</li>
     <li>16. WebAssembly <a href="https://webassembly.org/">WebAssembly</li>
+    <li>20. Memory Leaks <a href="https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications">Memory Leaks at SoundCloud</li>
+    <li>20. Memory Leaks <a href="https://developer.mozilla.org/en-US/docs/Web/API/setInterval">MDN setInterval</li>
+    <li>23. Javascript Runtime <a href="http://latentflip.com/loupe/?code=ZnVuY3Rpb24gcHJpbnRIZWxsbygpIHsNCiAgICBjb25zb2xlLmxvZygnSGVsbG8gZnJvbSBiYXonKTsNCn0NCg0KZnVuY3Rpb24gYmF6KCkgew0KICAgIHNldFRpbWVvdXQocHJpbnRIZWxsbywgMzAwMCk7DQp9DQoNCmZ1bmN0aW9uIGJhcigpIHsNCiAgICBiYXooKTsNCn0NCg0KZnVuY3Rpb24gZm9vKCkgew0KICAgIGJhcigpOw0KfQ0KDQpmb28oKTs%3D!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D">JS Runtime Playground</li>
+    <li>24. Node.js <a href="https://nodejs.org/en">Node.js</li>
+    <li>25. Exercise:Fix This Code <a href="https://replit.com/@aneagoie/Prevent-Stack-Overflow">Solution Code</li>
+    <li>26. Section Review <a href="https://replit.com/@aneagoie/Javascript-Runtime">Async Code Playground</li>
 </ul>
